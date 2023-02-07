@@ -1,11 +1,11 @@
 # 6Companies30Days
-A Challenge to make sure you start with your goals today!
+A Challenge to make sure you start with your goals today!<br>
 #ReviseWIthArsh #6companies30days
 
 ## Rules :
-Complete 1 company (15 Questions) in 5 days and try maintaining a github repository to store all the codes which can be later used as notes.
-The questions provided will be on a gap of 5 days for a new company.
-Completing questions in these 5 days can be in any format - 3 questions a day or maybe 6 questions a day.
+Complete 1 company (15 Questions) in 5 days and try maintaining a github repository to store all the codes which can be later used as notes.<br>
+The questions provided will be on a gap of 5 days for a new company.<br>
+Completing questions in these 5 days can be in any format - 3 questions a day or maybe 6 questions a day.<br>
 Why wait to start- start it today!
 
 ## Challenge Company 1 : Microsoft 
